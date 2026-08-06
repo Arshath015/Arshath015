@@ -386,11 +386,3 @@ print(arsh.motto())
 
 
 ---
-**Last updated:** 2026-08-02
-
-
-## Requirements
-
-```
-pip install -r requirements.txt
-```
