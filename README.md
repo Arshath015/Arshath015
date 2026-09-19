@@ -386,3 +386,10 @@ print(arsh.motto())
 
 
 ---
+
+
+## Requirements
+
+```
+pip install -r requirements.txt
+```
