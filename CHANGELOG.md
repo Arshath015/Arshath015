@@ -34,3 +34,6 @@ All notable changes to this project are documented here.
 
 ### 2026-09-21
 - Reviewed open items and updated project notes.
+
+### 2026-09-22
+- Verified build/tooling configuration is current.
